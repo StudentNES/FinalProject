@@ -1,2 +1,6 @@
 seaborn
-altair
+plotly
+geopandas
+shapely
+gtts
+bs4
